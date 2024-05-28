@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=seungjunl123&show_icons=true" />
 </picture>
 
-<img src="https://github-readme-stats.vercel.app/api?username=seungjunl123"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjunl123&layout=compact"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungjunl123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

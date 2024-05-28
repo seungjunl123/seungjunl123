@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=👋%20Seungjun%20Oh's%20GitHub&fontSize=40" />
 
-## Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
+ 
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />

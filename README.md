@@ -48,8 +48,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjunl123&layout=compact"/>
 </div>
 
-<img src="https://img.shields.io/badge/https%3A%2F%2Fblog.naver.com%2Ftmdwns9112-brightgreen?style=for-the-badge&logo=naver&logoColor=white&color=%2303C75A
-"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fblog.naver.com%2Ftmdwns9112-brightgreen?style=for-the-badge&logo=naver&logoColor=white&color=%2303C75A">
 
 
 

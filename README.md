@@ -1,10 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=👋%20Seungjun%20Oh's%20GitHub&fontSize=40" />
 
 ## Hi there 👋
-<div class="gitHubStat" align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungjunl123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjunl123)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <!--
 **seungjunl123/seungjunl123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -25,7 +25,18 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+</div>
 
+<br/>
+
+<div align="center">
+<h3>📞 Contact 📞</h3>
+<a href="https://blog.naver.com/tmdwns9112">
+ <img alt="Static Badge"  src="https://img.shields.io/badge/naver-brightgreen?style=for-the-badge&logo=naver&logoColor=white&color=%2303C75A">
+</a>
+     <a href="mailto:tmdwns9112@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
 </div>
 
 <br/>
@@ -46,12 +57,6 @@
 </div>
 
 
-<div align="center">
-<h3>📞 Contact 📞</h3>
-<a href="https://blog.naver.com/tmdwns9112">
- <img alt="Static Badge"  src="https://img.shields.io/badge/naver-brightgreen?style=for-the-badge&logo=naver&logoColor=white&color=%2303C75A">
-</a>
-</div>
 
 
 

@@ -2,8 +2,8 @@
 
 <h1 align="center"> Hi there 👋 </h1>
  
-<h3>  🔨 Once I've used 🔨 </h3>
 <div align="center">
+<h3>  🔨 Once I've used 🔨 </h3>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
 </div>
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/naver-#03C75A?style=for-the-badge&logo=naver-&logoColor=white"/></a>
 
 <br/>
 <h3 align="center">🛠 Tools 🛠</h3>

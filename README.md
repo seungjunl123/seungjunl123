@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=SeungjunOh&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=👋@%20Seungjun%20Oh's%20GitHub&fontSize=40" />
 
 ## Hi there 👋
 

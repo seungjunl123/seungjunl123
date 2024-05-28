@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=SeungjunOh&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header&text=SeungjunOh&fontSize=40" />
 
 ## Hi there 👋
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&fontSize=40" />

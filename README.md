@@ -41,6 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=seungjunl123&show_icons=true" />
 </picture>
 
+<img src="https://github-readme-stats.vercel.app/api?username=seungjunl123"/>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungjunl123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjunl123)](https://github.com/anuraghazra/github-readme-stats)
 <!--

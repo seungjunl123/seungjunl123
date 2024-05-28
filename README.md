@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=red&height=90&section=header&text=SeungjunOh&fontSize=40" />
+
 ## Hi there 👋
 
 <!--

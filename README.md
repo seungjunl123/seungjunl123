@@ -29,6 +29,9 @@
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
+<br/>
+
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=seungjunl123&show_icons=true&theme=dark"
@@ -40,12 +43,11 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=seungjunl123&show_icons=true" />
 </picture>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungjunl123&layout=compact"/>
+</div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungjunl123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungjunl123)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **seungjunl123/seungjunl123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
